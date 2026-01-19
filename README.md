@@ -163,6 +163,7 @@ Solicitar una feature: Issues
 
 Email: sofiajp@hotmail.es
 
-🚀 Live Demo
-Ver demo en vivo (si configuras GitHub Pages)
+## 🚀 Live Demo
+
+[**Ver demo en vivo**](https://ayfos.github.io/todo-list/) - Despliegue automático con GitHub Pages
 
